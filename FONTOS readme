@@ -4,6 +4,7 @@ Szerviz és karbantartó menedzsment program
 
 Program működéséhez alap feltételek!
 - Szükséges elindítani a XAMPP-ot és a XAMPP-on belül az Apache-ot és a MySQL-t.
+  (Megjegyzés: amennyiben nem írtunk át semmit és az alap adatok vannak a XAMPP-on belül úgy gond nem adódhat.)
 - Szükséges továbbra megnyitni a phpMyAdmin-t a böngészőben és az adatbázist az adattáblákkal együtt importálni a phpMyAdmin-ba.
 
 
