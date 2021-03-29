@@ -1,0 +1,19 @@
+# Zarodolgozat
+Szerviz és karbantartó menedzsment program
+
+
+Program működéséhez alap feltételek!
+- Szükséges elindítani a XAMPP-ot és a XAMPP-on belül az Apache-ot és a MySQL-t.
+- Szükséges továbbra megnyitni a phpMyAdmin-t a böngészőben és az adatbázist az adattáblákkal együtt importálni a phpMyAdmin-ba.
+
+
+phpMyAdmin megnyitásához: localhost/phpMyAdmin (csak ha fut az Apache és a MySQL.)
+A szükséges SQL fájlokat a phpMyAdmin-ba importáláshoz a "docs" mappán belül az "SQL" nevezetű mappában található.
+(Megjegyzés: nem lényeges kibontani a .rar-t/.zip-et működik benne is.)
+
+
+A bejelentkezésekhez a kódok: alap programba --> 12345, profilhoz --> 54321
+
+
+Bármilyen kérdéssel, észrevétellel vagy problémával bizalommal forduljon a fejlesztőhőz (Fidrus Márk). 
+Elérhetőség: markfidrus@gmail.com 
